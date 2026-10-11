@@ -44,10 +44,10 @@
   priceInr: null,
   placeholderClass: 'product-placeholder--black'
 },
-    { id: 'pastel-floral-set', name: 'Pastel floral jewelry set', category: 'jewelry', imagePath: 'assets/products/pastel-floral-set.jpeg', imageAlt: 'Pastel floral jewelry set', priceInr: null, placeholderClass: 'product-placeholder--floral' },
-    { id: 'pink-heart-set', name: 'Heart-shaped pastel bead jewelry set', category: 'jewelry', imagePath: 'assets/products/heart-bead-set.jpeg',imageAlt: 'Pink heart-bead bracelet and matching earrings', priceInr: null, placeholderClass: 'product-placeholder--heart' },
-    { id: 'multicolor-bead-set', name: 'Multicolor bead jewelry set', category: 'jewelry', imagePath: 'assets/products/multicolor-bead-set.jpeg',imageAlt: 'Multicolor bead bracelet and matching earrings', priceInr: null, placeholderClass: 'product-placeholder--multi' },
-    { id: 'ivory-satin-bows', name: 'Ivory satin hair bows', category: 'hair-bows', imagePath: 'assets/products/ivory-satin-bows.jpeg', imageAlt: 'Ivory satin hair bows', priceInr: null, placeholderClass: 'product-placeholder--satin' },
+    { id: 'pastel-floral-set', name: 'Pastel floral jewelry set', category: 'jewelry', imagePath: 'assets/products/pastel-floral-set.jpg', imageAlt: 'Pastel floral jewelry set', priceInr: null, placeholderClass: 'product-placeholder--floral' },
+    { id: 'pink-heart-set', name: 'Heart-shaped pastel bead jewelry set', category: 'jewelry', imagePath: 'assets/products/heart-bead-set.jpg',imageAlt: 'Pink heart-bead bracelet and matching earrings', priceInr: null, placeholderClass: 'product-placeholder--heart' },
+    { id: 'multicolor-bead-set', name: 'Multicolor bead jewelry set', category: 'jewelry', imagePath: 'assets/products/multicolor-bead-set.jpg',imageAlt: 'Multicolor bead bracelet and matching earrings', priceInr: null, placeholderClass: 'product-placeholder--multi' },
+    { id: 'ivory-satin-bows', name: 'Ivory satin hair bows', category: 'hair-bows', imagePath: 'assets/products/ivory-satin-bows.jpg', imageAlt: 'Ivory satin hair bows', priceInr: null, placeholderClass: 'product-placeholder--satin' },
     { id: 'pink-pearl-bows', name: 'Pink pearl-decorated hair bows', category: 'hair-bows', imagePath: 'assets/products/pink-pearl-bows.jpg', imageAlt: 'Pink hair bows decorated with pearls', priceInr: null, placeholderClass: 'product-placeholder--pearl' },
     { id: 'pink-mesh-bows', name: 'Pink mesh ribbon hair bows', category: 'hair-bows', imagePath: 'assets/products/pink-mesh-bows.jpg', imageAlt: 'Pink mesh ribbon hair bows with decorative beads', priceInr: null, placeholderClass: 'product-placeholder--mesh' }
   ];
