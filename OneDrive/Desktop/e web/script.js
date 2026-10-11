@@ -32,7 +32,7 @@
    */
   const STORE_CONFIG = {
     currency: 'INR',
-    whatsappNumber: ''
+    whatsappNumber: '917449062409'
   };
   const PRODUCT_DATA = [
 {
